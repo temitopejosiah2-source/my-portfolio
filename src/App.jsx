@@ -79,10 +79,10 @@ function App() {
           <div className="flex justify-center md:justify-end">
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-cyan-500 shadow-2xl shadow-cyan-500/30">
               <img 
-                src="/src/assets/profile.jpeg" 
-                alt="Temitope Josiah" 
-                className="w-full h-full object-cover object-top"
-              />
+  src="/images/profile.jpeg" 
+  alt="Temitope Josiah" 
+  className="w-full h-full object-cover object-top"
+/>
             </div>
           </div>
 
